@@ -1,1 +1,1 @@
-# git-practice-AliyevCingiz
+Bu layihe git tapsirigidir
